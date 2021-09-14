@@ -6,5 +6,6 @@ This repo contains the following projects:
 
 » Face Detection using OpenCV
 
-» Facial Emotion Recognizer using OpenCV
+» Facial Emotion Recognition using OpenCV
 
+» Object Tracking using OpenCV
